@@ -229,7 +229,8 @@ This documentation and project overview are provided for educational and profess
 ## 🙏 Acknowledgments
 
 - **Formula Student Team**: Arab Academy Motors team members and technical contributors
-- **Academic Supervisors**: [Supervisor names and institutions]
+- **Academic Supervisor 1**: Dr. Mazen Elagamy (Vice Dean of Student Affairs, College of Engineering)
+- **Academic Supervisor 2**: Dr. Mohamed Abo Elazm (Dean of Student Affairs, College of Engineering)
 - **Competition Community**: Formula Student organizers and participating teams
 - **Technical Partners**: ZED Camera support, ROS community, and open-source contributors
 
