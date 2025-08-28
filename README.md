@@ -91,16 +91,13 @@ After building a global map during exploration, the system transitions to perfor
 ## 🎬 Demonstration
 
 ### Real-time Planning Visualization
-![Path Planning Demo](images/path_planning_demo.gif)
+![Path Planning Demo](demo/demo.mp4)
 *Live demonstration of the path planning system in RViz*
 
 ### Algorithm Comparison
-| ![Center Line](images/centerline_path.png) | ![Race Line](images/raceline_path.png) |
+| ![Center Line](images/center_line.png) | ![Race Line](images/raceline.png) |
 |:--:|:--:|
 | **Exploration Phase**: Safe center-line approach | **Performance Phase**: Optimized racing line |
-
-### Video Documentation
-🎥 **[System Demo Video](demo/demo.mp4)**: Complete demonstration of the planning system working in RViz simulation environment.
 
 ---
 
@@ -163,7 +160,7 @@ The research validates that **conservative center-line approaches outperform agg
 ## 📚 Documentation & Academic Contributions
 
 ### 📄 **Technical Documentation**
-- **[Comprehensive Technical Report](docs/path_planning_technical_report.pdf)**: Detailed algorithm documentation, implementation analysis, and performance evaluation
+- **[Comprehensive Technical Report](report/path_planner_report.pdf)**: Detailed algorithm documentation, implementation analysis, and performance evaluation
 - **Graduation Thesis**: "Autonomous Path Planning for Formula Student Vehicles" - Complete academic treatment of the research
 - **Algorithm Specifications**: Detailed mathematical formulations and pseudocode for all planning algorithms
 
