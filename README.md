@@ -91,7 +91,10 @@ After building a global map during exploration, the system transitions to perfor
 ## 🎬 Demonstration
 
 ### Real-time Planning Visualization
-![Path Planning Demo](demo/demo.mp4)
+
+
+https://github.com/user-attachments/assets/a30603b0-1bd8-49d1-9fc0-cb84aa6c8a24
+
 *Live demonstration of the path planning system in RViz*
 
 ### Algorithm Comparison
